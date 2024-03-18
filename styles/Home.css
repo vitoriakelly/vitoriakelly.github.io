@@ -1,0 +1,69 @@
+.header {
+    background-image: url("../assents/papa.jpg");
+    height: 40vh;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    top: 80%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+.completo {
+    justify-content: space-between;
+    display: flex;
+    padding: 5%;
+    height: 50vh;
+}
+
+.title {
+    color: rgb(10, 10, 10);
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title-h4 {
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+}
+
+.menueu {
+    background: rgb(221, 218, 219);
+    width: 55%;
+    padding: 1%;
+}
+
+.perfil {
+    width: 40%;
+    background: rgb(221, 218, 219);
+    width: 42%;
+}
+
+.sobre {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.hobbies {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.eu {
+    border-radius: 90%;
+    width: 50%;
+}
+
+.foto {
+ 
+    height: 25vh;
+    text-align: center;
+}
+
+.texto {
+   padding: 12px;
+    height: 20vh;
+}
